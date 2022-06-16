@@ -7,11 +7,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a student at Pelita Bangsa University
 - 🌱 I’m currently learning Web Development
+- ⚡ My Portofolio : https://github.com/IsnainiR
+
+
 <--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 -->
-- ⚡ My Portofolio : https://github.com/IsnainiR
